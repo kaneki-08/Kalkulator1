@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    background-color: gray;
+}
+.asosiy{
+    width: 1000px;
+    height: 1000px;
+    background-color: rgb(73, 73, 248);
+    border-radius: 50px;
+    
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+
+.box-1 input{
+    width: 850px;
+    height: 100px;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-size: 100px;
+}
+.box-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.cal-2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+   
+}
+.cal-3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+   
+}
+.raqam{
+    width: 200px;
+    height: 150px;
+    margin-top: 15px;
+    border-radius: 20px;
+    font-size: 90px;
+    background-color: black;
+    color: white;
+}
+.raqam1{
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    border-radius: 20px;
+    font-size: 90px;
+    background-color: black;
+    color: white;
+}
